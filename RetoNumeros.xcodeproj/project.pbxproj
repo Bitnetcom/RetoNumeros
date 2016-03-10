@@ -51,6 +51,7 @@
 		D0F1F6EC1C91EF89001682AD /* RetoNumerosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RetoNumerosUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0F1F6F01C91EF89001682AD /* RetoNumerosUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RetoNumerosUITests.m; sourceTree = "<group>"; };
 		D0F1F6F21C91EF89001682AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D0F1F6FE1C91F19D001682AD /* RetoNumeros.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = RetoNumeros.playground; path = ../../PruebaGit/RetoNumeros.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +103,7 @@
 			isa = PBXGroup;
 			children = (
 				D0F1F6CE1C91EF89001682AD /* AppDelegate.h */,
+				D0F1F6FE1C91F19D001682AD /* RetoNumeros.playground */,
 				D0F1F6CF1C91EF89001682AD /* AppDelegate.m */,
 				D0F1F6D11C91EF89001682AD /* ViewController.h */,
 				D0F1F6D21C91EF89001682AD /* ViewController.m */,
@@ -499,6 +501,7 @@
 				D0F1F6F71C91EF89001682AD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D0F1F6F81C91EF89001682AD /* Build configuration list for PBXNativeTarget "RetoNumerosTests" */ = {
 			isa = XCConfigurationList;
@@ -507,6 +510,7 @@
 				D0F1F6FA1C91EF89001682AD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D0F1F6FB1C91EF89001682AD /* Build configuration list for PBXNativeTarget "RetoNumerosUITests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +519,7 @@
 				D0F1F6FD1C91EF89001682AD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
